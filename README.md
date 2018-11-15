@@ -18,5 +18,5 @@ The accuracy on the test set is above 97% with 8792 vehicle images and 8968 non-
 
 <img src="https://media.giphy.com/media/i3CLrpVj0GlIV9aHQJ/giphy.gif" width="500" height="350"/>
 
-## Preference
+## Preferences
 [Vehicle Detection](https://github.com/udacity/CarND-Vehicle-Detection) - Udacity
